@@ -7,7 +7,6 @@ import androidx.recyclerview.widget.PagerSnapHelper
 import androidx.recyclerview.widget.RecyclerView
 import com.skill_factory.unit8.adapter.MyAdapter
 import com.skill_factory.unit8.model.Fruit
-import com.skill_factory.unit8.snap_helper.StartSnapHelper
 
 class MainActivity : AppCompatActivity() {
 
